@@ -7,6 +7,7 @@
 - [@AlphaSignalAI](https://twitter.com/AlphaSignalAI), [Alpha Signal](https://alphasignal.ai/), to _“Stay up to date with the latest in Machine Learning”_
 - [@MITDeepLearning](https://twitter.com/MITDeepLearning), _“MIT’s introductory course on deep learning!”_
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) GitHub repo
+- [Hugging Face](https://huggingface.co), and its [Spaces](https://huggingface.co/spaces) (_“Discover amazing ML apps made by the community!”_)
 - [MLOps: Machine Learning Operations](https://ml-ops.org/)
 - Reddit: [Deep Learning](https://www.reddit.com/r/deeplearning/) · [Deep Learning Papers](https://www.reddit.com/r/DeepLearningPapers/) · [Machine Learning](https://www.reddit.com/r/MachineLearning/) · [Neural Networks, Deep Learning and Machine Learning](https://www.reddit.com/r/neuralnetworks/) · [TensorFlow](https://www.reddit.com/r/tensorflow/)
 
