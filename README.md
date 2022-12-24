@@ -8,6 +8,7 @@
 - Cloud services: [Amazon SageMaker](https://aws.amazon.com/sagemaker/) · [Google Colab](https://colab.research.google.com/) · [Jupyter](https://jupyter.org/) · [Kaggle](https://www.kaggle.com/) · [Saturn Cloud](https://saturncloud.io/)
 - [@MITDeepLearning](https://twitter.com/MITDeepLearning), _“MIT’s introductory course on deep learning!”_
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) GitHub repo
+- [Futurepedia](https://www.futurepedia.io/), _“the largest AI tools directory, updated daily”
 - [Hugging Face](https://huggingface.co), and its [Spaces](https://huggingface.co/spaces) (_“Discover amazing ML apps made by the community!”_)
 - [MLOps: Machine Learning Operations](https://ml-ops.org/)
 - [OpenAI](https://openai.com/api/)
