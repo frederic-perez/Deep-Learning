@@ -10,6 +10,7 @@
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) GitHub repo
 - [Futurepedia](https://www.futurepedia.io/), _“the largest AI tools directory, updated daily”
 - [Hugging Face](https://huggingface.co), and its [Spaces](https://huggingface.co/spaces) (_“Discover amazing ML apps made by the community!”_)
+- [Illustrated Machine Learning](https://illustrated-machine-learning.github.io/)
 - [MLOps: Machine Learning Operations](https://ml-ops.org/)
 - [OpenAI](https://openai.com/api/)
 - Reddit: [Deep Learning](https://www.reddit.com/r/deeplearning/) · [Deep Learning Papers](https://www.reddit.com/r/DeepLearningPapers/) · [Machine Learning](https://www.reddit.com/r/MachineLearning/) · [Neural Networks, Deep Learning and Machine Learning](https://www.reddit.com/r/neuralnetworks/) · [TensorFlow](https://www.reddit.com/r/tensorflow/)
