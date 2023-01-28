@@ -2,6 +2,10 @@
 
 ## Some interesting URLs and handlers
 
+### Books
+
+- [Dive into Deep Learning](https://d2l.ai/)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), with Chapter 5 being on Machine Learning
 ### Miscellany
 
 - [@AlphaSignalAI](https://twitter.com/AlphaSignalAI), [Alpha Signal](https://alphasignal.ai/), to _“Stay up to date with the latest in Machine Learning”_
