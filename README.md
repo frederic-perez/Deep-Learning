@@ -12,12 +12,14 @@
 - Cloud services: [Amazon SageMaker](https://aws.amazon.com/sagemaker/) · [Google Colab](https://colab.research.google.com/) · [Jupyter](https://jupyter.org/) · [Kaggle](https://www.kaggle.com/) · [Saturn Cloud](https://saturncloud.io/)
 - [@MITDeepLearning](https://twitter.com/MITDeepLearning), _“MIT’s introductory course on deep learning!”_
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) GitHub repo
+- From Zero to Research Scientist full resources guide » [https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide#Deep-Learning](Deep Learning) videos
 - [Futurepedia](https://www.futurepedia.io/), _“the largest AI tools directory, updated daily”
 - [Hugging Face](https://huggingface.co), and its [Spaces](https://huggingface.co/spaces) (_“Discover amazing ML apps made by the community!”_)
 - [Illustrated Machine Learning](https://illustrated-machine-learning.github.io/)
 - [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained)
 - [MLOps: Machine Learning Operations](https://ml-ops.org/)
 - [OpenAI](https://openai.com/api/)
+- [Papers with Code](https://paperswithcode.com/), with [SOTA](https://paperswithcode.com/sota), including [Medical Image Segmentation](https://paperswithcode.com/task/medical-image-segmentation)
 - Reddit: [Deep Learning](https://www.reddit.com/r/deeplearning/) · [Deep Learning Papers](https://www.reddit.com/r/DeepLearningPapers/) · [Machine Learning](https://www.reddit.com/r/MachineLearning/) · [Neural Networks, Deep Learning and Machine Learning](https://www.reddit.com/r/neuralnetworks/) · [TensorFlow](https://www.reddit.com/r/tensorflow/)
 
 ### Gurus+
