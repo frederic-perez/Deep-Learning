@@ -11,11 +11,14 @@
 - [@AlphaSignalAI](https://twitter.com/AlphaSignalAI), [Alpha Signal](https://alphasignal.ai/), to _“Stay up to date with the latest in Machine Learning”_
 - Cloud services: [Amazon SageMaker](https://aws.amazon.com/sagemaker/) · [Google Colab](https://colab.research.google.com/) · [Jupyter](https://jupyter.org/) · [Kaggle](https://www.kaggle.com/) · [Saturn Cloud](https://saturncloud.io/)
 - [@MITDeepLearning](https://twitter.com/MITDeepLearning), _“MIT’s introductory course on deep learning!”_
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) GitHub repo
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) GitHub repo
 - From Zero to Research Scientist full resources guide » [https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide#Deep-Learning](Deep Learning) videos
 - [Futurepedia](https://www.futurepedia.io/), _“the largest AI tools directory, updated daily”
 - [Hugging Face](https://huggingface.co), and its [Spaces](https://huggingface.co/spaces) (_“Discover amazing ML apps made by the community!”_)
 - [Illustrated Machine Learning](https://illustrated-machine-learning.github.io/)
+- [Learn Machine Learning From These GitHub Repositories](https://www.kdnuggets.com/2023/01/learn-machine-learning-github-repositories.html)
+- [Metaphysic.ai](https://metaphysic.ai/) includes interesting articles to learn ML
 - [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained)
 - [MLOps: Machine Learning Operations](https://ml-ops.org/)
 - [OpenAI](https://openai.com/api/)
