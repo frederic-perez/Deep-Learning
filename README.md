@@ -12,13 +12,15 @@
 - Cloud services: [Amazon SageMaker](https://aws.amazon.com/sagemaker/) · [Google Colab](https://colab.research.google.com/) · [Jupyter](https://jupyter.org/) · [Kaggle](https://www.kaggle.com/) · [Saturn Cloud](https://saturncloud.io/)
 - [@MITDeepLearning](https://twitter.com/MITDeepLearning), _“MIT’s introductory course on deep learning!”_
 - [AIcyclopedia](https://www.aicyclopedia.com/)
+- [Artificial intelligence glossary: 60+ terms to know](https://www.techtarget.com/whatis/feature/Artificial-intelligence-glossary-60-terms-to-know)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) GitHub repo
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) GitHub repo
 - From Zero to Research Scientist full resources guide » [https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide#Deep-Learning](Deep Learning) videos
-- [Futurepedia](https://www.futurepedia.io/), _“the largest AI tools directory, updated daily”
+- [Futurepedia](https://www.futurepedia.io/), _“the largest AI tools directory, updated daily”_
 - [Hugging Face](https://huggingface.co), and its [Spaces](https://huggingface.co/spaces) (_“Discover amazing ML apps made by the community!”_)
 - [Illustrated Machine Learning](https://illustrated-machine-learning.github.io/)
 - [Learn Machine Learning From These GitHub Repositories](https://www.kdnuggets.com/2023/01/learn-machine-learning-github-repositories.html)
+- [LLMs for Dummies](https://www.digitalnative.tech/p/llms-for-dummies)
 - [Metaphysic.ai](https://metaphysic.ai/) includes interesting articles to learn ML
 - [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained)
 - [MLOps: Machine Learning Operations](https://ml-ops.org/)
