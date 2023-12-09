@@ -6,6 +6,7 @@
 
 - [Dive into Deep Learning](https://d2l.ai/)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/), with Chapter 5 being on Machine Learning
+
 ### Miscellany
 
 - [@AlphaSignalAI](https://twitter.com/AlphaSignalAI), [Alpha Signal](https://alphasignal.ai/), to _“Stay up to date with the latest in Machine Learning”_
@@ -13,6 +14,7 @@
 - [@MITDeepLearning](https://twitter.com/MITDeepLearning), _“MIT’s introductory course on deep learning!”_
 - [AIcyclopedia](https://www.aicyclopedia.com/)
 - [Artificial intelligence glossary: 60+ terms to know](https://www.techtarget.com/whatis/feature/Artificial-intelligence-glossary-60-terms-to-know)
+- [Awesome colab notebooks collection for ML experiments Research](https://github.com/amrzv/awesome-colab-notebooks) GitHub repo
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) GitHub repo
 - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) GitHub repo
 - From Zero to Research Scientist full resources guide » [https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide#Deep-Learning](Deep Learning) videos
