@@ -30,6 +30,13 @@
 - [Papers with Code](https://paperswithcode.com/), with [SOTA](https://paperswithcode.com/sota), including [Medical Image Segmentation](https://paperswithcode.com/task/medical-image-segmentation)
 - Reddit: [Deep Learning](https://www.reddit.com/r/deeplearning/) · [Deep Learning Papers](https://www.reddit.com/r/DeepLearningPapers/) · [Machine Learning](https://www.reddit.com/r/MachineLearning/) · [Neural Networks, Deep Learning and Machine Learning](https://www.reddit.com/r/neuralnetworks/) · [PyTorch](https://www.reddit.com/r/pytorch/) · [TensorFlow](https://www.reddit.com/r/tensorflow/)
 
+### Tools
+
+- [MONAI](https://monai.io/) - Medical Open Network for Artificial Intelligence
+- [ONNX](https://onnx.ai/) (Open Neural Network Exchange) - The open standard for machine learning interoperability
+- [PyTorch](https://pytorch.org/), a machine learning library based on the Torch library
+  - [Ecosystem Tools](https://pytorch.org/ecosystem/) (includes MONAI)
+
 ### Gurus+
 
 - Andrej Karpathy [@karpathy](https://twitter.com/karpathy)
