@@ -26,7 +26,7 @@
 - [Metaphysic.ai](https://metaphysic.ai/) includes interesting articles to learn ML
 - [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained)
 - [MLOps: Machine Learning Operations](https://ml-ops.org/)
-- [OpenAI](https://openai.com/api/)
+- [OpenAI](https://openai.com/api)
 - [Papers with Code](https://paperswithcode.com/), with [SOTA](https://paperswithcode.com/sota), including [Medical Image Segmentation](https://paperswithcode.com/task/medical-image-segmentation)
 - Reddit: [Deep Learning](https://www.reddit.com/r/deeplearning/) · [Deep Learning Papers](https://www.reddit.com/r/DeepLearningPapers/) · [Machine Learning](https://www.reddit.com/r/MachineLearning/) · [Neural Networks, Deep Learning and Machine Learning](https://www.reddit.com/r/neuralnetworks/) · [PyTorch](https://www.reddit.com/r/pytorch/) · [TensorFlow](https://www.reddit.com/r/tensorflow/)
 
