@@ -1,5 +1,7 @@
 # Deep-Learning
 
+<h1 align="center">🚫 Discontinued in July, 2024 🚫</h1>
+
 ## Some interesting URLs and handlers
 
 ### Books
